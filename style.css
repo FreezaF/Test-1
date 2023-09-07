@@ -4,12 +4,6 @@ html {
   background: linear-gradient(skyblue, deepskyblue);
 }
 
-.html1 {
-  height: 100px;
-  width: 100px;
-  border-radius: 50%;
-}
-
 .button {
   border: none;
   color: white;
